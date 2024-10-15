@@ -23,7 +23,7 @@ Watch changes:
 
 #
 
-> ![TIP]
+> [!TIP]
 > To run the project, you can use `live server` in VSCODE.
 
 #
